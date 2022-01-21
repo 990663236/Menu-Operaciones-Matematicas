@@ -40,4 +40,4 @@ int main() {
 		
 	}
 	return 0;
-}//N00218813
+}//CARLOS MAX GALARZA RICRA---N00218813
