@@ -1,4 +1,3 @@
-//Pruebaaa
 #include<iostream>
 using namespace std;
 int main() {
@@ -40,4 +39,6 @@ int main() {
 		
 	}
 	return 0;
-}//CARLOS MAX GALARZA RICRA---N00218813
+
+
+}
