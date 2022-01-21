@@ -1,6 +1,7 @@
 //ChristianCardenas 
 //N00059947
 //CARLOS GALARZA RICRA--N00218813
+//HEBER JEANPIER LOZANO CABANILLAS--N00193712
 #include<iostream>
 using namespace std;
 int main() {
