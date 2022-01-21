@@ -1,6 +1,6 @@
 //ChristianCardenas 
 //N00059947
-
+//CARLOS GALARZA RICRA--N00218813
 #include<iostream>
 using namespace std;
 int main() {
