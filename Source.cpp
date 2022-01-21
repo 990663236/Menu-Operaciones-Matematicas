@@ -37,7 +37,7 @@ int main() {
 	default:
 		cout << "opcion no valida ";
 		break;
-
+		
 	}
 	return 0;
-}
+}N00218813
